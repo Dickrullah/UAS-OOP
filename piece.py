@@ -1,7 +1,7 @@
 # /* piece.py
 import pygame
 
-class Piece:
+class Piece: 
     def __init__(self, piece_size, p_id):
         self.piece_size = piece_size
         self.p_id = p_id
