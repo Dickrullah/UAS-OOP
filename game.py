@@ -1,5 +1,5 @@
 import pygame
- 
+  
 pygame.font.init()
 
 class Game:
