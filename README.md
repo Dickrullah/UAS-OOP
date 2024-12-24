@@ -13,3 +13,6 @@ Berikut Hasil dari game
 
 ![Screenshot 2024-12-24 213258](https://github.com/user-attachments/assets/f5e49854-effb-458a-9f41-d0cd08a5eda9)
 
+Berikut Laporan dari Project UAS kami daari kelompok 6 2023C
+
+[Laporan_Kel6_Slide Puzzle_2023C.pdf](https://github.com/user-attachments/files/18240610/Laporan_Kel6_Slide.Puzzle_2023C.pdf)
